@@ -261,8 +261,8 @@ nav .contact-link:hover {
   background-color: #c7a2fc; /* Adjust the color to match the image */
   padding: 2rem;
   margin-top: 6rem;
-  margin-left: 3rem;
-  margin-right: 3rem;
+  margin-left: 8rem;
+  margin-right: 4rem;
   margin-bottom: 6rem;
   border-radius: 20px; /* Rounded corners for the box */
 }
